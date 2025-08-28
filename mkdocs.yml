@@ -1,4 +1,4 @@
 site_name: My site
-site_url: https://mydomain.org/mysite
+site_url: https://kikinovak.github.io/mkdocs-deploy/
 theme:
   name: material
