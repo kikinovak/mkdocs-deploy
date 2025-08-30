@@ -2,3 +2,4 @@ site_name: GitHub Page Deploy
 site_url: https://kikinovak.github.io/mkdocs-deploy/
 theme:
   name: material
+  language: fr
